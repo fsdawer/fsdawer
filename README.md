@@ -1,21 +1,13 @@
-백엔드 개발자들이 깃허브 프로필(README.md)을 꾸밀 때 가장 선호하는 깔끔하고 전문적인 레이아웃으로 전체 코드를 짜드렸습니다.
 
-이 코드를 복사해서 본인의 깃허브 아이디와 동일한 이름의 레포지토리(예: yourid/yourid)에 있는 README.md에 붙여넣으세요.
 
 🚀 GitHub Profile README Template
 Markdown
 
-# 💫 "데이터 정합성과 성능 최적화를 중시하는 백엔드 개발자"
+# 💫 "배우는게 재밌는 개발자"
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20ITGEN!&fontSize=70" />
 </div>
-
-## 🔍 About Me
-- 🎯 **Goal**: 찰나의 지연도 허용하지 않는 견고한 금융 IT 시스템 구축
-- 🛠 **Focus**: 대용량 트래픽 처리, 동시성 제어, TDD 기반의 안정적인 아키텍처 설계
-- ✍️ **Blog**: [자신의 블로그 주소 혹은 노션 링크]
-- 📫 **Contact**: [자신의 이메일 주소]
 
 ---
 
