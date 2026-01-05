@@ -35,24 +35,3 @@ Markdown
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white">
 </p>
-
----
-
-## 💻 Code Philosophy
-```java
-while (true) {
-    String problem = "Performance Bottleneck & Data Inconsistency";
-    
-    // 1. 분석 및 TDD 기반 설계
-    analyze(problem);
-    writeTestCodeFirst();
-    
-    // 2. 고가용성 솔루션 적용 (Redis, Locking, Storage Optimization)
-    applyOptimization();
-    
-    // 3. 무결성 확인 및 회고
-    if (isPerfectlySynced()) {
-        shareKnowledgeOnNotion(); // 팀 시너지를 위한 공유
-        break;
-    }
-}
