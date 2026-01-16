@@ -1,4 +1,4 @@
-# 💫 "배우는게 재밌는 개발자"
+# 💫 "안녕하세요 장현우입니다"
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I%20am%20JANG&fontSize=70" />
